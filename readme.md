@@ -11,3 +11,4 @@ Create a daily planner that has these elements:
 I ended up looking through several walkthroughs and following Chenallee's script to figure out why my storage wasn't working.
 I do not know why it isn't working and I get several issues displayed in the console.
 This was challenging and I would like to revisit this as soon as time allows to find the faults and solve these problems.
+
